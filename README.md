@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+i'm Rinaldi Bueno, I am a developer student that likes web development and im passionate about learning new technologies 
+
 <!--
 **rbueno25/rbueno25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
